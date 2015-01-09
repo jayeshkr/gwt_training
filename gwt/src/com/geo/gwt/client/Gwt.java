@@ -47,7 +47,7 @@ public class Gwt implements EntryPoint {
 	 * This is the entry point method.
 	 */
 	public void onModuleLoad() {
-		Label lbl1 = new Label("Grade 10 Exam Results");
+		Label lbl1 = new Label("Grade 3 Exam Results");
 		lbl1.setTitle("NPS School Website");
 		lbl1.setSize("250px", "30px");
 	
