@@ -1,0 +1,2 @@
+serviceClass: com.geo.gwt.client.GreetingService
+path: 937B504C6D5DFCD7B37D41D05844F3EB.gwt.rpc
